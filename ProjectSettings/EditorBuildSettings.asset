@@ -4,4 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/GameNow.unity
+    guid: ed39cf3ced95b5e49aa4989158540bde
+  - enabled: 1
+    path: Assets/_Scenes/WinScene.unity
+    guid: aa6f67790ac89a2468559a07c73b9453
+  m_configObjects: {}
